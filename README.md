@@ -1,1 +1,1 @@
-# kgb-lab
+# sample code for kgb-lab blogger 
